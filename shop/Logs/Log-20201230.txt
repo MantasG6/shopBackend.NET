@@ -1,0 +1,5 @@
+2020-12-30T20:34:48.8268190+02:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2020-12-30T20:34:48.8329505+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-12-30T20:34:48.8330499+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-12-30T20:34:48.8330726+02:00  [INF] Content root path: "C:\Users\mangri5\source\repos\shop\shop" (b5d60022)
+2020-12-30T21:58:04.5020767+02:00  [INF] Application is shutting down... (90f52c38)
